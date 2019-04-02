@@ -13,14 +13,30 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string></string>
+				<string>28022BACA6A3F11B2EC4CCA5935C67BBFFFD1714</string>
 				<key>dateExpires</key>
-				<string></string>
+				<string>12/6/21</string>
 				<key>type</key>
-				<string>Unknown</string>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>PEVL7W78Y7.net.chukan.bela</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>PEVL7W78Y7</string>
+				<key>get-task-allow</key>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>Bela.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ea627b0e-1e00-4aad-8593-900d6f73f2ed</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: net.chukan.bela</string>
+			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
